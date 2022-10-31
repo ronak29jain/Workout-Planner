@@ -1,7 +1,7 @@
 {
   "name": "workout-planner",
   "homepage": "https://ronak29jain.github.io/workout-planner",
-  "proxy": "http://13.231.132.155:8080/",
+  "proxy": "http://13.231.132.155:8080",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
